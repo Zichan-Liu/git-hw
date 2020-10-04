@@ -1,2 +1,6 @@
 Hi! This is File B
+<<<<<<< HEAD
 Add another thing to file B in Master.
+=======
+Add some changes into file_b.csv
+>>>>>>> feature1
